@@ -11,11 +11,11 @@ http://ja.gravatar.com/
 
 #### option
  * size
-  * avatar image size
+    * avatar image size
  * default
-  * default image url
+    * default image url
  * secure?
-  * https flag. default is false
+    * https flag. default is false
 
 #### option example
 
@@ -27,7 +27,7 @@ http://ja.gravatar.com/
 
 #### option
  * secure?
-  * https flag. default is false
+    * https flag. default is false
 
 #### option example
 
